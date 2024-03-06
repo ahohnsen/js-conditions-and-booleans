@@ -1,4 +1,3 @@
-console.clear();
 // if/else - statements
 
 let carrots = 2;
