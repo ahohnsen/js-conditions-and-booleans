@@ -10,11 +10,24 @@ body {
   padding: 20px;
 }
 
-main {
-  padding: 5px;
+h1 {
+  font-size: 1.5rem;
 }
 
-.dark {
-  background-color: black;
-  color: #eee;
+h2 {
+  font-size: 1.3rem;
+}
+
+main {
+  padding: 5px;
+  line-height: 1.5;
+}
+
+p {
+  font-weight: 600;
+}
+
+.emphasized {
+  font-weight: 500;
+  font-style: italic;
 }
